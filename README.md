@@ -10,3 +10,6 @@ Once you have Node.js installed, you can install create-shadowizard-app globally
 ```
 npm install -g create-shadowizard-app
 ```
+# Usage
+
+To create a new project with `create-shadowizard-app`, you can run the following command in your terminal:
