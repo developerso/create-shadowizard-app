@@ -47,3 +47,7 @@ Removes the single build dependency from your project and copies all the configu
 # Conclusion
 
 `create-shadowizard-app` provides an easy and quick way to get started with a new project using the Shadowizard library. With the preconfigured styles, you can focus on building your app without worrying about the CSS.
+
+# License
+
+This project is licensed under [Apache 2.0]()
