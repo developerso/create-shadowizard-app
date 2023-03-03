@@ -50,4 +50,4 @@ Removes the single build dependency from your project and copies all the configu
 
 # License
 
-This project is licensed under [Apache 2.0]()
+This project is licensed under [Apache 2.0](https://github.com/developerso/create-shadowizard-app/blob/main/LICENSE)
